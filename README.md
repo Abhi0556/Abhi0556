@@ -1,3 +1,4 @@
+![logo](https://github.com/Abhi0556/Abhi0556/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Abhishek Parihar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right"alt="coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">

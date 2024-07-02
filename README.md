@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi0556&label=Profile%20views&color=0e75b6&style=flat" alt="abhi0556" /> </p>
 
-- 🔭 I’m currently working on Final year Project **Coffee Management System**
+- 🔭 I’m currently Looking for the opportunity to showcase My Talent.
 
-- 🌱 I’m currently learning Software Development and Full Stack Development **JavaScript, ReactJs.**
+- 🌱 Completed the Frontend Development Languages.
+
+- 🌱 I’m currently Backend Development.
 
 - 📫 How to reach me **abhishekparihar0556@gmail.com**
 
@@ -15,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhishek parihar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek parihar" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/abhishek-parihar-654934200?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek parihar" height="30" width="40" /></a>
 <a href="https://instagram.com/abhishekparihar055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekparihar055" height="30" width="40" /></a>
 </p>
 
